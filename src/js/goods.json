@@ -1,0 +1,70 @@
+{
+    "01": {
+        "name": "Classic Nubuck",
+        "color": "BERGHAIN",
+        "cost": 238.35,
+        "description": "Nubuck upper / Quilted nappa leather heel / Waxed laces / Metallic rivets / Nubuk flag with embossed logo / Calf skin leather lining / Exclusively designed outsole / Made in Italy",
+        "size": [
+            40,
+            41,
+            42,
+            43
+        ],
+        "img": "shoes1.jpg"
+    },
+    "02": {
+        "name": "Classic Grain",
+        "color": "ROCKFELLER",
+        "cost": 195.00,
+        "description": "Leather upper / Quilted nappa heel / Calf skin leather lining / Leather flag with debossed logo / Waxed laces / Metallic rivets / Exclusively designed outsole / Made in Italy",
+        "size": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+        ],
+        "img": "shoes2.jpg"
+    },
+    "03": {
+        "name": "Judoka",
+        "color": "GRIZZLY",
+        "cost": 164.00,
+        "description": "Water repellent nubuk upper / High density military canvas inserts / Natural tanned leather lining / Custom lacing system on the toe box / Waxed laces / Metal rivets on the heel / All round seamed cupsole / MADE IN ITALY",
+        "size": [
+            41,
+            44,
+            46
+        ],
+        "img": "shoes3.jpg"
+    },
+    "04": {
+        "name": "Judoka Stop",
+        "color": "MILITIA",
+        "cost": 164.00,
+        "description": "Water resistant gummed leather upper / Nylon inserts / Leather lining / Custom lacing system on the toe box / Nylon laces / Metal rivets on the heel / All round seamed cupsole / MADE IN ITALY",
+        "size": [
+            40,
+            42,
+            43,
+            44
+        ],
+        "img": "shoes4.jpg"
+    },
+    "05": {
+        "name": "Gumsole Mid S",
+        "color": "CRACKER",
+        "cost": 143.00,
+        "description": "Nubuck upper / Calf skin leather lining / Leather reinforcement on the toes for an improved fit / Tubular laces / Metallic rivets / Nubuck flag with subtle embossed logo / Updated with all around stitched outsole / Made in Italy",
+        "size": [
+            39,
+            40,
+            41,
+            42,
+            43,
+            44
+        ],
+        "img": "shoes5.jpg"
+    }
+}
